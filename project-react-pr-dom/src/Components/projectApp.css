@@ -1,0 +1,64 @@
+.profile{
+    width: 300px;
+    height: 320px;
+    border-radius: 20px;
+    border: 1px solid gray;
+    
+}
+
+
+.mainMetric{
+    width: 80px;
+    height: 40px;
+    font-weight: 600;
+    display: inline-block;
+    padding-top: 20px;
+}
+
+.mainMetric > span{
+    font-weight: 300;
+    color: gray;
+}
+
+.metrics{
+    border-top: 2px solid rgb(218, 214, 214);
+}
+.details{
+    padding: 20px;
+    padding-top: 50px;
+}
+
+.userName{
+    font-weight: 600;
+}
+
+.userName > span{
+    font-weight: 300;
+    color: gray;
+}
+.userAdress{
+    font-weight: 300;
+    color: gray;
+}
+
+.userLogo{
+    height: 70px;
+    width: 70px;
+    background-color: cadetblue;
+    border-radius: 50%;
+    position: absolute;
+    display: inline-block;
+    line-height: 60px;
+    text-align: center;
+    border: 2px solid white;
+    transform: translate(-50%, -50%);
+    
+}
+
+.background{
+    background-color: rgb(103, 197, 197);
+    height: 120px;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+    
+}
